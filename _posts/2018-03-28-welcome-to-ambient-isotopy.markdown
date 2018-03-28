@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Ambient Isotopy"
+title:  "Welcome to Ambient Isotopy!"
 ---
 Yo! 
 
