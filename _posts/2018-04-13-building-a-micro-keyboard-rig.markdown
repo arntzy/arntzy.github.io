@@ -39,7 +39,7 @@ why...
   to bring larger gear to gigs because I drove an SUV. Living in Brooklyn has
   forced a more minimal approach. What can fit in the trunk of an taxi/uber?
 
-My upcoming tour with [Lanz Projects]("http://brassland.org/artists/lanz") will
+My upcoming tour with [Lanz Projects](http://brassland.org/artists/lanz) will
 be using a rental car for transportation and we will be playing small/medium
 stages.
 
