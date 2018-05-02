@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Resume
 permalink: /resume/
 ---
 <html>
+    
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"
@@ -786,11 +786,14 @@ permalink: /resume/
                 <div class="middle">
                     	<h1 class="name">Aaron Arntz</h1>
 
-                    	<h2 class="label">Musician/Programmer</h2>
+                    	<h2 class="label">Programmer/Musician</h2>
 
-                </div>	
-                    <div
-                    id="contact">
+                </div>	<span class="location">
+    			<span class="city">Brooklyn,</span> 	<span class="region">New York</span> 
+                <span
+                class="countryCode">US</span>
+                    </span>
+                    <div id="contact">
                         <div class="website">	<span class="fa fa-external-link"></span>
 	<a target="_blank" target="_blank"
                             href="http://ambientisotopy.com/">http://ambientisotopy.com/</a>
@@ -800,368 +803,367 @@ permalink: /resume/
 	<a href="mailto:aarntz@gmail.com">aarntz@gmail.com</a>
 
                         </div>
-        </div>
-        <div id="profiles">
-            <div class="item">
-                <div class="username">	<span class="fa fa-linkedin linkedin social"></span>
+                    </div>
+                    <div id="profiles">
+                        <div class="item">
+                            <div class="username">	<span class="fa fa-linkedin linkedin social"></span>
 	<span class="url">
     						<a target="_blank" href="https://www.linkedin.com/in/aaron-arntz">Aaron Arntz</a>
     					</span> 
-                </div>
-            </div>
-            <div class="item">
-                <div class="username">	<span class="fa fa-twitter twitter social"></span>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="username">	<span class="fa fa-twitter twitter social"></span>
 	<span class="url">
     						<a target="_blank" href="https://twitter.com/arntzaaron">ArntzAaron</a>
     					</span> 
-                </div>
-            </div>
-        </div>
-        </header>
-        <section class="section main-summary">
-            <section>
-                <div>
-                    <p>Recent graduate from NYU’s Interactive Telecommunications Program (Masters
-                        of Professional Studies, 2015) and a professional musician for 15 years.
-                        Highly proficient in programming, problem solving and creative thinking.
-                        Seeking full-time employment as a Full-Stack junior developer.</p>
-                </div>
-            </section>
-        </section>
-        <section class="section margin1">
-            <header>
-                	<h2 class='section-title'>Skills</h2>
-
+                            </div>
+                        </div>
+                    </div>
             </header>
-            <section id="skills">
-                <div class="item">
-                    	<h3 class="name">
+            <section class="section main-summary">
+                <section>
+                    <div>
+                        <p>Recent graduate from NYU’s Interactive Telecommunications Program (Masters
+                            of Professional Studies, 2015) and a professional musician. Highly proficient
+                            in programming, problem solving and creative thinking.</p>
+                    </div>
+                </section>
+            </section>
+            <section class="section margin1">
+                <header>
+                    	<h2 class='section-title'>Skills</h2>
+
+                </header>
+                <section id="skills">
+                    <div class="item">
+                        	<h3 class="name">
     				Programming
     			</h3>
 
-                    <div class="level advanced">	<em>advanced</em>
+                        <div class="level advanced">	<em>advanced</em>
 
-                        <div class="bar"></div>
+                            <div class="bar"></div>
+                        </div>
+                        <ul class="keywords">
+                            <li>Javascript</li>
+                            <li>React/Redux</li>
+                            <li>Rasberry Pi</li>
+                            <li>Node</li>
+                            <li>Linux</li>
+                            <li>Python</li>
+                            <li>HTML</li>
+                            <li>CSS</li>
+                            <li>Shell Scripting</li>
+                            <li>Vim</li>
+                            <li>Tmux</li>
+                            <li>Git</li>
+                            <li>Pro Tools</li>
+                            <li>Max/MSP</li>
+                            <li>Finale</li>
+                        </ul>
                     </div>
-                    <ul class="keywords">
-                        <li>Javascript</li>
-                        <li>React/Redux</li>
-                        <li>Rasberry Pi</li>
-                        <li>Node</li>
-                        <li>Linux</li>
-                        <li>Python</li>
-                        <li>HTML</li>
-                        <li>CSS</li>
-                        <li>Shell Scripting</li>
-                        <li>Vim</li>
-                        <li>Tmux</li>
-                        <li>Git</li>
-                        <li>Pro Tools</li>
-                        <li>Max/MSP</li>
-                        <li>Finale</li>
-                    </ul>
-                </div>
-                <div class="item">
-                    	<h3 class="name">
+                    <div class="item">
+                        	<h3 class="name">
     				Dabbled In
     			</h3>
 
-                    <div class="level intermediate">	<em>intermediate</em>
+                        <div class="level intermediate">	<em>intermediate</em>
 
-                        <div class="bar"></div>
+                            <div class="bar"></div>
+                        </div>
+                        <ul class="keywords">
+                            <li>Haskell</li>
+                            <li>Java</li>
+                            <li>C++</li>
+                            <li>Supercollider</li>
+                        </ul>
                     </div>
-                    <ul class="keywords">
-                        <li>Haskell</li>
-                        <li>Java</li>
-                        <li>C++</li>
-                        <li>Supercollider</li>
-                    </ul>
-                </div>
-                <div class="item">
-                    	<h3 class="name">
+                    <div class="item">
+                        	<h3 class="name">
     				Personal
     			</h3>
 
-                    <div class="level master">	<em>master</em>
+                        <div class="level master">	<em>master</em>
 
-                        <div class="bar"></div>
-                    </div>
-                    <ul class="keywords">
-                        <li>quick learner</li>
-                        <li>works well with new people</li>
-                        <li>systematic thinker</li>
-                        <li>organized</li>
-                        <li>efficient</li>
-                    </ul>
-                </div>
-            </section>
-        </section>
-        <section class="section">
-            <header>
-                 <h2 class='section-title'>Work Experience <span class="item-count">(5)</span></h2>
-
-            </header>
-            <section id="work">
-                <section class="work-item">
-                    <input id="work-item-0" type="checkbox" class="toggle-item" checked="checked"
-                    />
-                    <label for="work-item-0"></label>
-                    <header>
-                        <div class="position">Developer</div>
-                        <div class="company">Cactus Technologies</div>
-                        <div class="date"> <span class="startDate">March 2017</span> 	<span class="endDate">- August 2017</span> 
+                            <div class="bar"></div>
                         </div>
-                    </header>
-                    <div class="item" id="work-item">
-                        <div class="summary">
-                            <p>
-                                <p>Implemented a Full-Stack system for Lab100, an experimental lab for Mt.
-                                    Sinai hospital. <a href="https://www.cactus.is/lab100/">https://www.cactus.is/lab100/</a>
-                                </p>
-                            </p>
-                        </div>
-                        <ul class="highlights">
-                            <li>
-                                <p>Used React/Redux on the front end with React-Native on an Android Tablet.
-                                    Used a Node server on the back end.</p>
-                            </li>
-                            <li>
-                                <p>Sniffed Bluetooth from a medical device using a Raspberry Pi to capture
-                                    packets and interact with a VR system.</p>
-                            </li>
-                            <li>
-                                <p>Worked with many different technologies and systems.</p>
-                            </li>
-                        </ul>
-                    </div>
-                </section>
-                <section class="work-item">
-                    <input id="work-item-1" type="checkbox" class="toggle-item" />
-                    <label for="work-item-1"></label>
-                    <header>
-                        <div class="position">Developer</div>
-                        <div class="company">Black Egg</div>
-                        <div class="date"> <span class="startDate">October 2016</span> 	<span class="endDate">- December 2016</span> 
-                        </div>
-                    </header>
-                    <div class="item" id="work-item">
-                        <div class="summary">
-                            <p>
-                                <p>Implemented RFID connectivity and data collection for Senac conference
-                                    in Rio De Janeiro</p>
-                            </p>
-                        </div>
-                        <ul class="highlights">
-                            <li>
-                                <p>Used RFID card readers with Raspberry Pi to collect conference data</p>
-                            </li>
-                            <li>
-                                <p>Set up mongoDB replica sets and utilized nodeJS clustering capabilities</p>
-                            </li>
-                            <li>
-                                <p>Provided integration with third-party apps</p>
-                            </li>
-                            <li>
-                                <p>Generated custom emails for conference participants based on daily interaction</p>
-                            </li>
-                        </ul>
-                    </div>
-                </section>
-                <section class="work-item">
-                    <input id="work-item-2" type="checkbox" class="toggle-item" />
-                    <label for="work-item-2"></label>
-                    <header>
-                        <div class="position">Research Resident</div>
-                        <div class="company">DBRS Labs</div>
-                        <div class="date"> <span class="startDate">January 2016</span> 	<span class="endDate">- February 2016</span> 
-                        </div>
-                    </header>
-                    <div class="item" id="work-item">
-                        <div class="summary">
-                            <p>
-                                <p>Used a character-level Recurrent Neural Network trained on a corpus of
-                                    LilyPond music notation files to generate sheet music.</p>
-                            </p>
-                        </div>
-                        <ul class="highlights">
-                            <li>
-                                <p>Medium.com writeup of my work: <a href="http://goo.gl/kknhNo">http://goo.gl/kknhNo</a>
-                                </p>
-                            </li>
-                        </ul>
-                    </div>
-                </section>
-                <section class="work-item">
-                    <input id="work-item-3" type="checkbox" class="toggle-item" />
-                    <label for="work-item-3"></label>
-                    <header>
-                        <div class="position">Developer, CJ-GIVES CAMPAIGN</div>
-                        <div class="company">Freelance</div>
-                        <div class="date"> <span class="startDate">May 2015</span> 	<span class="endDate">- June 2015</span> 
-                        </div>
-                    </header>
-                    <div class="item" id="work-item">
-                        <div class="summary">
-                            <p>
-                                <p>Implemented a robust Twitter and Instagram hashtag counting charity campaign
-                                    which raised $1.50 for each use of the hashtag #CJ150 for the Vietnam New
-                                    Village Program totaling over $40,000</p>
-                            </p>
-                        </div>
-                        <ul class="highlights">
-                            <li>
-                                <p>Developed the backend which counted and stored hashtag uses in a PostgreSQL
-                                    database while live updating a website with the results</p>
-                            </li>
-                        </ul>
-                    </div>
-                </section>
-                <section class="work-item">
-                    <input id="work-item-4" type="checkbox" class="toggle-item" />
-                    <label for="work-item-4"></label>
-                    <header>
-                        <div class="position">Professional Touring Musician</div>
-                        <div class="company">Freelance</div>
-                        <div class="date"> <span class="startDate">January 2000</span> 	<span class="endDate">- March 2018</span> 
-                        </div>
-                    </header>
-                    <div class="item" id="work-item">
-                        <div class="summary">
-                            <p>
-                                <p>Traveled the world as a touring pianist/keyboardist. Toured with Beirut,
-                                    Edward Sharpe and the Magnetic Zeros, Nikka Costa, Zappa Plays Zappa, Mike
-                                    Doughty, Mike Patton, Priscilla Ahn, LNZNDRF, The National, and currently
-                                    playing with Grizzly Bear.</p>
-                            </p>
-                        </div>
-                        <ul class="highlights">
-                            <li>
-                                <p>Won a Grammy in 2008 for “Best Rock Instrumental” with Zappa Plays Zappa</p>
-                            </li>
-                            <li>
-                                <p>Many television and radio performances</p>
-                            </li>
-                            <li>
-                                <p>Designed many solid live-performance instrument setups and rigs</p>
-                            </li>
+                        <ul class="keywords">
+                            <li>quick learner</li>
+                            <li>works well with new people</li>
+                            <li>systematic thinker</li>
+                            <li>organized</li>
+                            <li>efficient</li>
                         </ul>
                     </div>
                 </section>
             </section>
-        </section>
-        <section class="section">
-            <header>
-                 <h2 class='section-title'>Education <span class="item-count">(2)</span></h2>
+            <section class="section">
+                <header>
+                     <h2 class='section-title'>Work Experience <span class="item-count">(5)</span></h2>
 
-            </header>
-            <section id="education">
-                <section class="education-item">
-                    <header>
-                        <div class="header-left">
-                            <div class="studyType">Master</div>
-                            <div class="area">Interactive Telecommunications Program (ITP)</div>
-                            <div class="institution">NYU</div>
+                </header>
+                <section id="work">
+                    <section class="work-item">
+                        <input id="work-item-0" type="checkbox" class="toggle-item" checked="checked"
+                        />
+                        <label for="work-item-0"></label>
+                        <header>
+                            <div class="position">Developer</div>
+                            <div class="company">Cactus Technologies</div>
+                            <div class="date"> <span class="startDate">March 2017</span> 	<span class="endDate">- August 2017</span> 
+                            </div>
+                        </header>
+                        <div class="item" id="work-item">
+                            <div class="summary">
+                                <p>
+                                    <p>Implemented a Full-Stack system for Lab100, an experimental lab for Mt.
+                                        Sinai hospital. <a href="https://www.cactus.is/lab100/">https://www.cactus.is/lab100/</a>
+                                    </p>
+                                </p>
+                            </div>
+                            <ul class="highlights">
+                                <li>
+                                    <p>Used React/Redux on the front end with React-Native on an Android Tablet.
+                                        Used a Node server on the back end.</p>
+                                </li>
+                                <li>
+                                    <p>Sniffed Bluetooth from a medical device using a Raspberry Pi to capture
+                                        packets and interact with a VR system.</p>
+                                </li>
+                                <li>
+                                    <p>Worked with many different technologies and systems.</p>
+                                </li>
+                            </ul>
                         </div>
-                        <div class="date"> <span class="startDate">
+                    </section>
+                    <section class="work-item">
+                        <input id="work-item-1" type="checkbox" class="toggle-item" />
+                        <label for="work-item-1"></label>
+                        <header>
+                            <div class="position">Developer</div>
+                            <div class="company">Black Egg</div>
+                            <div class="date"> <span class="startDate">October 2016</span> 	<span class="endDate">- December 2016</span> 
+                            </div>
+                        </header>
+                        <div class="item" id="work-item">
+                            <div class="summary">
+                                <p>
+                                    <p>Implemented RFID connectivity and data collection for Senac conference
+                                        in Rio De Janeiro</p>
+                                </p>
+                            </div>
+                            <ul class="highlights">
+                                <li>
+                                    <p>Used RFID card readers with Raspberry Pi to collect conference data</p>
+                                </li>
+                                <li>
+                                    <p>Set up mongoDB replica sets and utilized nodeJS clustering capabilities</p>
+                                </li>
+                                <li>
+                                    <p>Provided integration with third-party apps</p>
+                                </li>
+                                <li>
+                                    <p>Generated custom emails for conference participants based on daily interaction</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </section>
+                    <section class="work-item">
+                        <input id="work-item-2" type="checkbox" class="toggle-item" />
+                        <label for="work-item-2"></label>
+                        <header>
+                            <div class="position">Research Resident</div>
+                            <div class="company">DBRS Labs</div>
+                            <div class="date"> <span class="startDate">January 2016</span> 	<span class="endDate">- February 2016</span> 
+                            </div>
+                        </header>
+                        <div class="item" id="work-item">
+                            <div class="summary">
+                                <p>
+                                    <p>Used a character-level Recurrent Neural Network trained on a corpus of
+                                        LilyPond music notation files to generate sheet music.</p>
+                                </p>
+                            </div>
+                            <ul class="highlights">
+                                <li>
+                                    <p>Medium.com writeup of my work: <a href="http://goo.gl/kknhNo">http://goo.gl/kknhNo</a>
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                    </section>
+                    <section class="work-item">
+                        <input id="work-item-3" type="checkbox" class="toggle-item" />
+                        <label for="work-item-3"></label>
+                        <header>
+                            <div class="position">Developer, CJ-GIVES CAMPAIGN</div>
+                            <div class="company">Freelance</div>
+                            <div class="date"> <span class="startDate">May 2015</span> 	<span class="endDate">- June 2015</span> 
+                            </div>
+                        </header>
+                        <div class="item" id="work-item">
+                            <div class="summary">
+                                <p>
+                                    <p>Implemented a robust Twitter and Instagram hashtag counting charity campaign
+                                        which raised $1.50 for each use of the hashtag #CJ150 for the Vietnam New
+                                        Village Program totaling over $40,000</p>
+                                </p>
+                            </div>
+                            <ul class="highlights">
+                                <li>
+                                    <p>Developed the backend which counted and stored hashtag uses in a PostgreSQL
+                                        database while live updating a website with the results</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </section>
+                    <section class="work-item">
+                        <input id="work-item-4" type="checkbox" class="toggle-item" />
+                        <label for="work-item-4"></label>
+                        <header>
+                            <div class="position">Professional Touring Musician</div>
+                            <div class="company">Freelance</div>
+                            <div class="date"> <span class="startDate">January 2000</span> 	<span class="endDate">- March 2018</span> 
+                            </div>
+                        </header>
+                        <div class="item" id="work-item">
+                            <div class="summary">
+                                <p>
+                                    <p>Traveled the world as a touring pianist/keyboardist. Toured with Beirut,
+                                        Edward Sharpe and the Magnetic Zeros, Nikka Costa, Zappa Plays Zappa, Mike
+                                        Doughty, Mike Patton, Priscilla Ahn, LNZNDRF, The National, and currently
+                                        playing with Grizzly Bear.</p>
+                                </p>
+                            </div>
+                            <ul class="highlights">
+                                <li>
+                                    <p>Won a Grammy in 2008 for “Best Rock Instrumental” with Zappa Plays Zappa</p>
+                                </li>
+                                <li>
+                                    <p>Many television and radio performances</p>
+                                </li>
+                                <li>
+                                    <p>Designed many solid live-performance instrument setups and rigs</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </section>
+                </section>
+            </section>
+            <section class="section">
+                <header>
+                     <h2 class='section-title'>Education <span class="item-count">(2)</span></h2>
+
+                </header>
+                <section id="education">
+                    <section class="education-item">
+                        <header>
+                            <div class="header-left">
+                                <div class="studyType">Master</div>
+                                <div class="area">Interactive Telecommunications Program (ITP)</div>
+                                <div class="institution">NYU</div>
+                            </div>
+                            <div class="date"> <span class="startDate">
               2013
               </span>
  <span class="endDate">
               - 2015
               </span>
 
-                        </div>
-                    </header>
-                    <ul class="courses">
-                        <li>SOCIAL DATA ANALYSIS - Analyzed social data from social media using Python
-                            to implement many different statistical techniques and methods</li>
-                        <li>GOVERNING DYNAMICS OF SOFTWARE - Designed programming languages while
-                            studying existing languages’ biases/strengths</li>
-                        <li>THESIS - Developed a series of experimental meta-tools to create art/music
-                            which utilize ‘invisible’ data from our day-to-day use of technology</li>
-                        <li>REDIAL - Developed telephone applications using Asterisk (an open source
-                            switching and Private Branch Exchange framework for Linux) on remote servers</li>
-                        <li>API MASHUPS - Developed several one page web applications using popular
-                            APIs</li>
-                        <li>DYNAMIC WEB SERVER DEVELOPMENT - Built and deployed an example Web Server
-                            to Heroku using Node.js</li>
-                    </ul>
-                    <div class="item"></div>
-                </section>
-                <section class="education-item">
-                    <header>
-                        <div class="header-left">
-                            <div class="studyType">Bachelor</div>
-                            <div class="area">Jazz Studies</div>
-                            <div class="institution">University of Southern California</div>
-                        </div>
-                        <div class="date"> <span class="startDate">
+                            </div>
+                        </header>
+                        <ul class="courses">
+                            <li>SOCIAL DATA ANALYSIS - Analyzed social data from social media using Python
+                                to implement many different statistical techniques and methods</li>
+                            <li>GOVERNING DYNAMICS OF SOFTWARE - Designed programming languages while
+                                studying existing languages’ biases/strengths</li>
+                            <li>THESIS - Developed a series of experimental meta-tools to create art/music
+                                which utilize ‘invisible’ data from our day-to-day use of technology</li>
+                            <li>REDIAL - Developed telephone applications using Asterisk (an open source
+                                switching and Private Branch Exchange framework for Linux) on remote servers</li>
+                            <li>API MASHUPS - Developed several one page web applications using popular
+                                APIs</li>
+                            <li>DYNAMIC WEB SERVER DEVELOPMENT - Built and deployed an example Web Server
+                                to Heroku using Node.js</li>
+                        </ul>
+                        <div class="item"></div>
+                    </section>
+                    <section class="education-item">
+                        <header>
+                            <div class="header-left">
+                                <div class="studyType">Bachelor</div>
+                                <div class="area">Jazz Studies</div>
+                                <div class="institution">University of Southern California</div>
+                            </div>
+                            <div class="date"> <span class="startDate">
               1999
               </span>
  <span class="endDate">
               - 2003
               </span>
 
-                        </div>
-                    </header>
-                    <div class="item"></div>
+                            </div>
+                        </header>
+                        <div class="item"></div>
+                    </section>
                 </section>
             </section>
-        </section>
-        <section class="section">
-            <header>
-                 <h2 class='section-title'>Awards</h2>
+            <section class="section">
+                <header>
+                     <h2 class='section-title'>Awards</h2>
 
-            </header>
-            <section id="awards">
-                <section class="award-item">
-                    <header>
-                        <div class="header-left">
-                            <div class="title">Grammy - Best Rock Instrumental</div>
-                            <div class="awarder">National Academy of Recording Arts and Sciences</div>
-                        </div>
-                        <div class="date">2008</div>
-                    </header>
-                    <div class="item"></div>
+                </header>
+                <section id="awards">
+                    <section class="award-item">
+                        <header>
+                            <div class="header-left">
+                                <div class="title">Grammy - Best Rock Instrumental</div>
+                                <div class="awarder">National Academy of Recording Arts and Sciences</div>
+                            </div>
+                            <div class="date">2008</div>
+                        </header>
+                        <div class="item"></div>
+                    </section>
                 </section>
             </section>
-        </section>
-        <section class="section margin1">
-            <header>
-                 <h2 class='section-title' class='section-title'>Interests</h2>
+            <section class="section margin1">
+                <header>
+                     <h2 class='section-title' class='section-title'>Interests</h2>
 
-            </header>
-            <section id="interests">
-                <div class="item">
-                     <h3 class="name">
+                </header>
+                <section id="interests">
+                    <div class="item">
+                         <h3 class="name">
             Computer Science
           </h3>
 
-                    <ul class="keywords">
-                        <li>Functional Programming</li>
-                        <li>Data Science</li>
-                        <li>Systems Architecture</li>
-                        <li>Experimental Development</li>
-                    </ul>
-                </div>
-                <div class="item">
-                     <h3 class="name">
+                        <ul class="keywords">
+                            <li>Functional Programming</li>
+                            <li>Data Science</li>
+                            <li>Systems Architecture</li>
+                            <li>Experimental Development</li>
+                        </ul>
+                    </div>
+                    <div class="item">
+                         <h3 class="name">
             Artificial Intelligence
           </h3>
 
-                    <ul class="keywords">
-                        <li>Self-Driving Cars</li>
-                        <li>Medical Diagnoses/Predictive Care</li>
-                    </ul>
-                </div>
-                <div class="item">
-                     <h3 class="name">
+                        <ul class="keywords">
+                            <li>Self-Driving Cars</li>
+                            <li>Medical Diagnoses/Predictive Care</li>
+                        </ul>
+                    </div>
+                    <div class="item">
+                         <h3 class="name">
             Machine Learning
           </h3>
 
-                    <ul class="keywords">
-                        <li>Neural Networks</li>
-                        <li>Generative Art</li>
-                    </ul>
-                </div>
+                        <ul class="keywords">
+                            <li>Neural Networks</li>
+                            <li>Generative Art</li>
+                        </ul>
+                    </div>
+                </section>
             </section>
-        </section>
