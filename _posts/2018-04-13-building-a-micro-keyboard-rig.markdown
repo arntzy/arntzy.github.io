@@ -78,7 +78,7 @@ allowFullScreen>
 
   Make it easier on a whiskey'd-up self. 
 
-<p align="center"><iframe src="https://giphy.com/embed/10osILvZ4ez7ws"
+<p align="center"><iframe src="https://gph.is/XHIRMp"
 width="480" height="480" frameBorder="0" class="giphy-embed"
 allowFullScreen></iframe></p>
 
@@ -127,7 +127,7 @@ will be a very pleasant 'synth texture' to mix in with other 'real' sounds. The
 world of sound is vast and adding a little concrète to your musique is never a
 bad idea.
 
-<p align='center'><iframe src="https://giphy.com/embed/xTiTnJ3BooiDs8dL7W"
+<p align='center'><iframe src="https://gph.is/2CdVNBW"
 width="480" height="305" frameBorder="0" class="giphy-embed"
 allowFullScreen></iframe></p>
 
