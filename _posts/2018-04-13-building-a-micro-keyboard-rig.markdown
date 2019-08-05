@@ -78,10 +78,12 @@ allowFullScreen>
 
   Make it easier on a whiskey'd-up self. 
 
-<p align="center"><iframe src="https://giphy.com/embed/8ip0NDz8dtdzG"
-width="480" height="343" frameBorder="0" class="giphy-embed"
-allowFullScreen></iframe><p><a
-href="https://giphy.com/gifs/drinking-zach-galifianakis-bored-to-death-8ip0NDz8dtdzG"></a></p></p>
+<p align="center"><div
+style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe
+src="https://giphy.com/embed/26tPbQF7OQqv7pztC" width="100%" height="100%"
+style="position:absolute" frameBorder="0" class="giphy-embed"
+allowFullScreen></iframe></div><p><a
+href="https://giphy.com/gifs/nick-offerman-yule-log-offermans-26tPbQF7OQqv7pztC"></a></p></p>
 
 ## *Philosophy:* Always two, never one.
 
