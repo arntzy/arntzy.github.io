@@ -78,8 +78,7 @@ allowFullScreen>
 
   Make it easier on a whiskey'd-up self. 
 
-<p align="center"><iframe src="https://giphy.com/gifs/8ip0NDz8dtdzG/html5" frameBorder="0" class="giphy-embed"
-allowFullScreen></iframe></p>
+<p align="center"><div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/8ip0NDz8dtdzG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/drinking-zach-galifianakis-bored-to-death-8ip0NDz8dtdzG"></a></p></p>
 
 ## *Philosophy:* Always two, never one.
 
@@ -126,8 +125,12 @@ will be a very pleasant 'synth texture' to mix in with other 'real' sounds. The
 world of sound is vast and adding a little concrète to your musique is never a
 bad idea.
 
-<p align='center'><iframe src="https://giphy.com/gifs/Av3rOMhdQ4FvZwsauw/html5" frameBorder="0" class="giphy-embed"
-allowFullScreen></iframe></p>
+<p align='center'><div
+style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe
+src="https://giphy.com/embed/Av3rOMhdQ4FvZwsauw" width="100%" height="100%"
+style="position:absolute" frameBorder="0" class="giphy-embed"
+allowFullScreen></iframe></div><p><a
+href="https://giphy.com/gifs/gif-this-Av3rOMhdQ4FvZwsauw"></a></p></p>
 
 ## *Philosophy*: No laptops.
 
