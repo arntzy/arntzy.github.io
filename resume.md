@@ -848,7 +848,7 @@ permalink: /resume/
                         <ul class="keywords">
                             <li>Javascript</li>
                             <li>React/Redux</li>
-                            <li>Rasberry Pi</li>
+                            <li>Raspberry Pi</li>
                             <li>Node</li>
                             <li>Linux</li>
                             <li>Python</li>
