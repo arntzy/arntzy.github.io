@@ -152,12 +152,12 @@ will be a very pleasant 'synth texture' to mix in with other 'real' sounds. The
 world of sound is vast and adding a little concrète to your musique is never a
 bad idea.
 
-<p align='center'><div
-style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe
-src="https://giphy.com/embed/Av3rOMhdQ4FvZwsauw" width="100%" height="100%"
-style="position:absolute" frameBorder="0" class="giphy-embed"
-allowFullScreen></iframe></div><p><a
-href="https://giphy.com/gifs/gif-this-Av3rOMhdQ4FvZwsauw"></a></p></p>
+<p align='center'>
+   <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe
+         src="https://giphy.com/embed/Av3rOMhdQ4FvZwsauw" width="100%" height="100%" style="position:absolute"
+         frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+   <p><a href="https://giphy.com/gifs/gif-this-Av3rOMhdQ4FvZwsauw"></a></p>
+</p>
 
 ## _Philosophy_: No laptops
 
