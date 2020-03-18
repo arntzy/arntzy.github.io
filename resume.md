@@ -781,9 +781,7 @@ permalink: /resume/
     <body>
         <div id="resume">
             <header id="header" class="clear">
-                <img class="picture" src="/assets/img/aaronarntz.jpeg"
-                alt="Aaron Arntz" />
-                <div class="middle">
+                <div>
                     	<h1 class="name">Aaron Arntz</h1>
 
                     	<h2 class="label">Programmer/Musician</h2>
@@ -824,9 +822,11 @@ permalink: /resume/
             <section class="section main-summary">
                 <section>
                     <div>
-                        <p>Recent graduate from NYU’s Interactive Telecommunications Program (Masters
-                            of Professional Studies, 2015) and a professional musician. Highly proficient
-                            in programming, problem solving and creative thinking.</p>
+                        <p>I am a creative technologist and musician living in Brooklyn, NY. I am
+                            highly proficient in programming, problem solving and abstract thinking
+                            and I have worked on the full stack as a contract developer for many installations
+                            and applications. I prefer to keep solutions simple and stable. Make it
+                            work, make it pretty, make it fast.</p>
                     </div>
                 </section>
             </section>
@@ -847,9 +847,10 @@ permalink: /resume/
                         </div>
                         <ul class="keywords">
                             <li>Javascript</li>
+                            <li>Typescript</li>
                             <li>React/Redux</li>
                             <li>Raspberry Pi</li>
-                            <li>Node</li>
+                            <li>Node.js</li>
                             <li>Linux</li>
                             <li>Python</li>
                             <li>HTML</li>
@@ -861,6 +862,8 @@ permalink: /resume/
                             <li>Pro Tools</li>
                             <li>Max/MSP</li>
                             <li>Finale</li>
+                            <li>Reaper</li>
+                            <li>Supercollider</li>
                         </ul>
                     </div>
                     <div class="item">
@@ -876,7 +879,8 @@ permalink: /resume/
                             <li>Haskell</li>
                             <li>Java</li>
                             <li>C++</li>
-                            <li>Supercollider</li>
+                            <li>Clojure</li>
+                            <li>Ruby</li>
                         </ul>
                     </div>
                     <div class="item">
@@ -900,7 +904,7 @@ permalink: /resume/
             </section>
             <section class="section">
                 <header>
-                     <h2 class='section-title'>Work Experience <span class="item-count">(5)</span></h2>
+                     <h2 class='section-title'>Work Experience <span class="item-count">(6)</span></h2>
 
                 </header>
                 <section id="work">
@@ -909,7 +913,35 @@ permalink: /resume/
                         />
                         <label for="work-item-0"></label>
                         <header>
-                            <div class="position">Developer</div>
+                            <div class="position">Developer (Contract)</div>
+                            <div class="company">Cactus Technologies</div>
+                            <div class="date"> <span class="startDate">August 2019</span> 	<span class="endDate">- October 2019</span> 
+                            </div>
+                        </header>
+                        <div class="item" id="work-item">
+                            <div class="summary">
+                                <p>
+                                    <p>Implemented and deployed video features in the full stack Mira camera
+                                        system for installation at a pop-up museum. Project site: <a href="https://www.cactus.is/mira">https://www.cactus.is/mira</a>
+                                    </p>
+                                </p>
+                            </div>
+                            <ul class="highlights">
+                                <li>
+                                    <p>used many different technologies such as Serverless, AWS lambda, AWS Iot,
+                                        Docker, Balena, AWS DynamoDB, React</p>
+                                </li>
+                                <li>
+                                    <p>created automated video, animated gifs, and boomerangs using DSLR cameras.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </section>
+                    <section class="work-item">
+                        <input id="work-item-1" type="checkbox" class="toggle-item" />
+                        <label for="work-item-1"></label>
+                        <header>
+                            <div class="position">Developer (Contract)</div>
                             <div class="company">Cactus Technologies</div>
                             <div class="date"> <span class="startDate">March 2017</span> 	<span class="endDate">- August 2017</span> 
                             </div>
@@ -917,7 +949,7 @@ permalink: /resume/
                         <div class="item" id="work-item">
                             <div class="summary">
                                 <p>
-                                    <p>Implemented a Full-Stack system for Lab100, an experimental lab for Mt.
+                                    <p>Implemented a full stack system for Lab100, an experimental lab for Mt.
                                         Sinai hospital. <a href="https://www.cactus.is/lab100/">https://www.cactus.is/lab100/</a>
                                     </p>
                                 </p>
@@ -938,10 +970,10 @@ permalink: /resume/
                         </div>
                     </section>
                     <section class="work-item">
-                        <input id="work-item-1" type="checkbox" class="toggle-item" />
-                        <label for="work-item-1"></label>
+                        <input id="work-item-2" type="checkbox" class="toggle-item" />
+                        <label for="work-item-2"></label>
                         <header>
-                            <div class="position">Developer</div>
+                            <div class="position">Developer (Contract)</div>
                             <div class="company">Black Egg</div>
                             <div class="date"> <span class="startDate">October 2016</span> 	<span class="endDate">- December 2016</span> 
                             </div>
@@ -970,8 +1002,8 @@ permalink: /resume/
                         </div>
                     </section>
                     <section class="work-item">
-                        <input id="work-item-2" type="checkbox" class="toggle-item" />
-                        <label for="work-item-2"></label>
+                        <input id="work-item-3" type="checkbox" class="toggle-item" />
+                        <label for="work-item-3"></label>
                         <header>
                             <div class="position">Research Resident</div>
                             <div class="company">DBRS Labs</div>
@@ -994,11 +1026,11 @@ permalink: /resume/
                         </div>
                     </section>
                     <section class="work-item">
-                        <input id="work-item-3" type="checkbox" class="toggle-item" />
-                        <label for="work-item-3"></label>
+                        <input id="work-item-4" type="checkbox" class="toggle-item" />
+                        <label for="work-item-4"></label>
                         <header>
-                            <div class="position">Developer, CJ-GIVES CAMPAIGN</div>
-                            <div class="company">Freelance</div>
+                            <div class="position">Developer (Contract)</div>
+                            <div class="company">CJ-GIVES CAMPAIGN</div>
                             <div class="date"> <span class="startDate">May 2015</span> 	<span class="endDate">- June 2015</span> 
                             </div>
                         </header>
@@ -1012,19 +1044,19 @@ permalink: /resume/
                             </div>
                             <ul class="highlights">
                                 <li>
-                                    <p>Developed the backend which counted and stored hashtag uses in a PostgreSQL
+                                    <p>Developed the back end which counted and stored hashtag uses in a PostgreSQL
                                         database while live updating a website with the results</p>
                                 </li>
                             </ul>
                         </div>
                     </section>
                     <section class="work-item">
-                        <input id="work-item-4" type="checkbox" class="toggle-item" />
-                        <label for="work-item-4"></label>
+                        <input id="work-item-5" type="checkbox" class="toggle-item" />
+                        <label for="work-item-5"></label>
                         <header>
                             <div class="position">Professional Touring Musician</div>
                             <div class="company">Freelance</div>
-                            <div class="date"> <span class="startDate">January 2000</span> 	<span class="endDate">- March 2018</span> 
+                            <div class="date"> <span class="startDate">January 2000</span> 	<span class="endDate">- July 2019</span> 
                             </div>
                         </header>
                         <div class="item" id="work-item">
@@ -1073,20 +1105,6 @@ permalink: /resume/
 
                             </div>
                         </header>
-                        <ul class="courses">
-                            <li>SOCIAL DATA ANALYSIS - Analyzed social data from social media using Python
-                                to implement many different statistical techniques and methods</li>
-                            <li>GOVERNING DYNAMICS OF SOFTWARE - Designed programming languages while
-                                studying existing languages’ biases/strengths</li>
-                            <li>THESIS - Developed a series of experimental meta-tools to create art/music
-                                which utilize ‘invisible’ data from our day-to-day use of technology</li>
-                            <li>REDIAL - Developed telephone applications using Asterisk (an open source
-                                switching and Private Branch Exchange framework for Linux) on remote servers</li>
-                            <li>API MASHUPS - Developed several one page web applications using popular
-                                APIs</li>
-                            <li>DYNAMIC WEB SERVER DEVELOPMENT - Built and deployed an example Web Server
-                                to Heroku using Node.js</li>
-                        </ul>
                         <div class="item"></div>
                     </section>
                     <section class="education-item">
@@ -1135,7 +1153,7 @@ permalink: /resume/
                 <section id="interests">
                     <div class="item">
                          <h3 class="name">
-            Computer Science
+            CS
           </h3>
 
                         <ul class="keywords">
@@ -1147,22 +1165,26 @@ permalink: /resume/
                     </div>
                     <div class="item">
                          <h3 class="name">
-            Artificial Intelligence
+            ML
           </h3>
 
                         <ul class="keywords">
+                            <li>Game strategy</li>
                             <li>Self-Driving Cars</li>
                             <li>Medical Diagnoses/Predictive Care</li>
+                            <li>Neural Networks</li>
+                            <li>Generative Art</li>
                         </ul>
                     </div>
                     <div class="item">
                          <h3 class="name">
-            Machine Learning
+            IOT
           </h3>
 
                         <ul class="keywords">
-                            <li>Neural Networks</li>
-                            <li>Generative Art</li>
+                            <li>Art Installations</li>
+                            <li>Single Board Computers</li>
+                            <li>Field Data Collection</li>
                         </ul>
                     </div>
                 </section>

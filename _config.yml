@@ -16,11 +16,11 @@
 title: Ambient Isotopy
 email: aarntz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   a continuous distortion of an ambient space
+  a continuous distortion of an ambient space
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ambientisotopy.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ambientisotopy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ArntzAaron
-github_username:  arntzy
+github_username: arntzy
 # Show excerpts on posts
 show_excerpts: true
 # Build settings
