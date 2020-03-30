@@ -25,7 +25,8 @@ github_username: arntzy
 show_excerpts: true
 # Build settings
 markdown: kramdown
-remote_theme: artemsheludko/flexible-jekyll
+theme: jekyll-theme-cayman
+# remote_theme: artemsheludko/flexible-jekyll
 # theme: minima
 plugins:
   - jekyll-feed
