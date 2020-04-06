@@ -1,6 +1,11 @@
 ---
 layout: post
-title: "Building a Micro Keyboard Rig"
+title: "Build a Micro Keyboard Rig"
+comments: true
+tags:
+ - diy
+ - synthesizers
+ - raspberry pi
 ---
 
 <div style="width:100%;height:0;padding-bottom:83%;position:relative;">
@@ -219,6 +224,6 @@ _WARNING:_ This section is a bit more technical.
 Here's a pic of the pedalboard with (clockwise) RPI3, Pocket Piano, Behringer
 mixer, PO-16, and M-Audio midi controller:
 
-<p align="center"> <img src="/assets/img/microrig.jpg"> </p>
+![microrig]({{ "/assets/img/microrig.jpg" | absolute_url }})
 
 Good noise to you, friends.
