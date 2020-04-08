@@ -57,19 +57,18 @@ My upcoming tour with [Lanz Projects](http://brassland.org/artists/lanz) will
 be using a rental car for transportation and we will be playing small/medium
 stages.
 
-### This calls for a microrig
-
-<p align="center">
+## This calls for a microrig!
+<div style="width:100%;height:0;padding-bottom:83%;position:relative;">
    <iframe
       src="https://giphy.com/embed/AwSjSL0YIZKik"
-      width="480"
-      height="354"
+      width="100%"
+      height="100%"
+      style="position:absolute"
       frameBorder="0"
       class="giphy-embed"
       allowFullScreen>
    </iframe>
-</p>
-
+</div>
 ## _5 Constraints of a Micro Keyboard Rig_
 
 - ### Fits into carry-on luggage
