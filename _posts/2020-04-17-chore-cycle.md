@@ -41,7 +41,7 @@ Here are some features used in this sheet:
 
   - I wanted the chore cycling to be done automagically without the requirement of knowing how it works. You can write custom functions or whole scripts using JavaScript (kinda) running on a V8 engine in the cloud.
   - Like anything else here, feel free to modify your own script by going to `Tools > Script Editor`.
-  - If you have found a better way to code any of these functions make a [pull request](https://github.com/arntzy/Chore-Cycle) and I will update the code on the shared sheet for people making copies in the future. Google has its own versioning for the .gs files, but I would prefer to use git and github even though it involves manually copying the scripts into the sheets script editor for now.
+  - If you have found a better way to code any of these functions make a [pull request](https://github.com/arntzy/Chore-Cycle){:target="\_blank"} and I will update the code on the shared sheet for people making copies in the future. Google has its own versioning for the .gs files, but I would prefer to use git and github even though it involves manually copying the scripts into the sheets script editor for now.
 
 - **Named Ranges**
 
@@ -110,7 +110,7 @@ Here are some features used in this sheet:
 - WARNING: At the moment, you cannot undo a full chore cycling, so I would suggest using a single row as a test of the macro.
 - To test that your cycling is set up properly, set a single task as your 'chores' named range. (i.e. set 'chores' named range to 'E3:R3')
 - Execute the macro to watch the cycle happen once with `Ctrl`{: .key}+`Alt`{: .key}+`Shift`{: .key}+`1`{: .key}. On a mac: `Cmd`{: .key}+`Option`{: .key}+`Shift`{: .key}+`1`{: .key}
-- Verify that the cycling worked for your test row, and then manually put it back to the state it started in.
+- Verify that the cycling worked for your test row, and then manually put it back to the state it started in and change the date back.
 - If everything behaved as it should, you now have a working sheet.
 
 ### 7. Get to work and enjoy the cleanest apartment you have had in years!

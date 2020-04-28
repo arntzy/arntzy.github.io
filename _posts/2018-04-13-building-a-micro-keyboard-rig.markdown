@@ -3,12 +3,12 @@ layout: post
 title: "Build a Micro Keyboard Rig"
 comments: true
 tags:
- - diy
- - synthesizers
- - raspberry pi
+  - diy
+  - synthesizers
+  - raspberry pi
 ---
 
-<div style="width:100%;height:0;padding-bottom:83%;position:relative;">
+<!-- <div style="width:100%;height:0;padding-bottom:83%;position:relative;">
    <iframe
       src="https://giphy.com/embed/SIiLgGvhFxBCg"
       width="100%"
@@ -21,7 +21,11 @@ tags:
 </div>
 <p>
    <a href="https://giphy.com/gifs/yes-band-jon-anderson-rick-wakeman-SIiLgGvhFxBCg"></a>
-</p>
+</p> -->
+
+[![img]({{ '/assets/img/tweedledee.jpeg' | relative_url }}){: .center-image }_step 1: find a table, any table_]({{'/assets/img/tweedledee.jpeg' | relative_url}})
+
+<!-- [![img]({{ '/assets/img/lanz.jpg' | relative_url }}){: .center-image }_so micro i am invisible_]({{'/assets/img/lanz.jpg' | relative_url}}) -->
 
 I decided to put together a micro keyboard rig for some upcoming gigs. Here's
 why...
@@ -53,12 +57,13 @@ why...
   to bring larger gear to gigs because I drove an SUV. Living in Brooklyn has
   forced a more minimal approach. What can fit in the trunk of an taxi/uber?
 
-My upcoming tour with [Lanz Projects](http://brassland.org/artists/lanz) will
+My upcoming tour with [Lanz Projects](http://brassland.org/artists/lanz){:target="\_blank"} will
 be using a rental car for transportation and we will be playing small/medium
 stages.
 
 ## This calls for a microrig!
-<div style="width:100%;height:0;padding-bottom:83%;position:relative;">
+
+<!-- <!-- <div style="width:100%;height:0;padding-bottom:83%;position:relative;">
    <iframe
       src="https://giphy.com/embed/AwSjSL0YIZKik"
       width="100%"
@@ -68,7 +73,10 @@ stages.
       class="giphy-embed"
       allowFullScreen>
    </iframe>
-</div>
+</div> -->
+
+[![img]({{ '/assets/img/microrigInAction.jpeg' | relative_url }}){: .center-image }_nobody puts micro in a corner_]({{'/assets/img/microrigInAction.jpeg' | relative_url}})
+
 ## _5 Constraints of a Micro Keyboard Rig_
 
 - ### Fits into carry-on luggage
@@ -136,7 +144,7 @@ Unfortunately I hate every piano sample on every keyboard -- particularly piano
 samples on Scandinavian red keyboards that have been disguised in a different
 color or even housed in completely ridiculous piano-sized(!) shame-boxes.
 
-### [Fuck!](https://www.instagram.com/explore/tags/nordshame/?hl=en)
+### [Fuck!](https://www.instagram.com/explore/tags/nordshame/?hl=en){:target="\_blank"}
 
 Anywayyyy...Back when I lived in Los Angeles my friend Bram gave me a Kontakt
 instrument (set of samples) sampled from his own upright piano. Perfect. Now I
@@ -178,7 +186,7 @@ _WARNING:_ This section is a bit more technical.
 
 1. Install the OS on the SD card
    1. I tried the ready-to-use disk image from
-      [SamplerBox](http://www.samplerbox.org/), but I was correctly worried
+      [SamplerBox](http://www.samplerbox.org/){:target="\_blank"}, but I was correctly worried
       that some packages hadn't been recently updated in that image. After
       looking at the SamplerBox source code, I decided I wanted to control the
       build from the ground up (dealing with any dependency problems along the
@@ -193,20 +201,20 @@ _WARNING:_ This section is a bit more technical.
       filesystem or even mounting it on boot. Because the samples are located
       on my USB stick, I had to figure out how to automatically mount it. I
       used the information found
-      [here](https://www.raspberrypi.org/forums/viewtopic.php?t=205016) to do
-      this. This [video](https://www.youtube.com/watch?v=sQJrgQdKU5I) also
+      [here](https://www.raspberrypi.org/forums/viewtopic.php?t=205016){:target="\_blank"} to do
+      this. This [video](https://www.youtube.com/watch?v=sQJrgQdKU5I){:target="\_blank"} also
       walks you through it.
 3. Change the local samplerbox.py config file's constant 'SAMPLES_DIR' to the
    directory the USB stick mounts to.
-   [samplerbox.py](https://github.com/josephernest/SamplerBox/blob/master/samplerbox.py)
+   [samplerbox.py](https://github.com/josephernest/SamplerBox/blob/master/samplerbox.py){:target="\_blank"}
 4. Set up a systemd service to run SamplerBox as a daemon on boot. The manual
    install doesn't run the python script on boot, because why would it? I used
    an article like
-   [this](http://www.diegoacuna.me/how-to-run-a-script-as-a-service-in-raspberry-pi-raspbian-jessie/)
+   [this](http://www.diegoacuna.me/how-to-run-a-script-as-a-service-in-raspberry-pi-raspbian-jessie/){:target="\_blank"}
    to set the service up.
 5. Order, solder, and install a DAC audio piHat
    1. It is supposedly well known that Raspberry Pi audio is crap. I ordered
-      this [relatively cheap DAC piHat](https://www.raspiaudio.com/home/) to
+      this [relatively cheap DAC piHat](https://www.raspiaudio.com/home/){:target="\_blank"} to
       handle the Digital to Analog conversion and my pi is sounding good.
 6. Modify the case (optional)
    1. I had a case from a previous project, so I drilled a new hole to fit an
@@ -216,7 +224,7 @@ _WARNING:_ This section is a bit more technical.
    1. The pi DAC output is 1/8" stereo. I need to convert that to mono to go
       into my Behringer mixer with no signal loss.
    2. Wow, these cables just don't exist. Read
-      [this](http://www.rane.com/note109.html) great article about why you
+      [this](http://www.rane.com/note109.html){:target="\_blank"} great article about why you
       should never just tie two outputs directly together to sum into mono.
       This cable was annoying to build, but it works great!
 
